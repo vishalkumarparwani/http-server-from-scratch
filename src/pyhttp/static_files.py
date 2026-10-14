@@ -1,0 +1,1 @@
+# Serve HTML, CSS, JS, images, and other files
